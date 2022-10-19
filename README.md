@@ -24,5 +24,5 @@ By comparing the parents and the ancestor of this merge commit, its possible to 
 
 ### References
 [DiffJ](https://github.com/jpace/diffj)  
-[Osean](https://github.com/leusonmario/OSean.EX)  
-[SMAT](https://github.com/leusonmario/SMAT)  
+[Osean](https://github.com/spgroup/OSean.EX)  
+[SMAT](https://github.com/spgroup/SMAT)  
